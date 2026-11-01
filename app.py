@@ -13,7 +13,7 @@ from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 # =====================================================
 
 st.set_page_config(
-    page_title="LeafCare AI",
+    page_title="Plant Disease Detection",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded"
